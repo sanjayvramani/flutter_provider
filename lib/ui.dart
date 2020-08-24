@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 
 class UI extends ChangeNotifier{
   double _fontSize=0.5;
